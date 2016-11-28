@@ -1,0 +1,289 @@
+@media(max-width: 992px) {
+  @media(min-width:768px) {
+    .medhide {
+      display: none !important; } } }
+@media(min-width: 992px) {
+  .gonezo {
+    display: none !important; } }
+.navbar-header {
+  margin: 0px !important; }
+
+body {
+  color: black;
+  background-color: #323; }
+  body h3 {
+    margin: 0px 0px 10px 0px;
+    font-family: "Raleway", sans-serif; }
+  body h2 {
+    margin: 0px 0px 10px 0px;
+    font-family: "Poiret One", cursive;
+    color: black; }
+  body a, body p {
+    color: black;
+    font-family: "Raleway", sans-serif; }
+  body a:hover {
+    color: black; }
+
+.container {
+  background-color: #fff;
+  padding-top: 30px; }
+
+.mainanime {
+  background-color: #ff; }
+
+.moos {
+  display: none; }
+
+.showcol:hover .overlay, .sidepic:hover .overlay {
+  opacity: 1; }
+
+.showspot ul {
+  padding-left: 0;
+  list-style: none;
+  overflow: hidden; }
+  .showspot ul a {
+    text-align: center; }
+  .showspot ul .showcol {
+    display: inline-block;
+    position: relative; }
+@media(min-width: 992px) {
+  .showspot ul .showcol {
+    width: 20%; } }
+@media(min-width: 0px) {
+  @media(max-width: 767px) {
+    .showspot ul .showcol h4 {
+      margin-top: 0px;
+      margin-bottom: 0px; } } }
+.carousel-inner {
+  max-height: 450px; }
+
+@media(min-width: 800px) {
+  .carousel-caption {
+    padding-bottom: 8em; } }
+@media(min-width: 977px) {
+  .carousel-caption {
+    padding-bottom: 15em; } }
+@media(min-width: 1150px) {
+  .carousel-caption {
+    padding-bottom: 20em; } }
+@media(min-width: 1267px) {
+  .carousel-caption {
+    padding-bottom: 25em; } }
+@media(min-width: 1400px) {
+  .carousel-caption {
+    padding-bottom: 30em; } }
+@media(min-width: 1550px) {
+  .carousel-caption {
+    padding-bottom: 35em; } }
+@media(min-width: 1640px) {
+  .carousel-caption {
+    padding-bottom: 40em; } }
+@media(min-width: 1780px) {
+  .carousel-caption {
+    padding-bottom: 50em; } }
+.overlay {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  right: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(160, 68, 160, 0.65);
+  opacity: 0;
+  -webkit-transition: opacity 0.5s ease;
+  -moz-transition: opacity 0.5s ease;
+  box-shadow: inset 1px 1px 40px 0 rgba(0, 0, 0, 0.45); }
+@media(min-width: 0px) {
+  @media(max-width: 767px) {
+    .overlay {
+      display: none; } } }
+.sidestuff {
+  border-left: 1px solid white;
+  padding-left: 25px; }
+
+.top5 {
+  display: block;
+  overflow: hidden;
+  border-bottom: 1px solid black;
+  padding-bottom: 18px; }
+@media(min-width: 0px) {
+  @media(max-width: 767px) {
+    .top5 {
+      display: none;
+      padding-left: 15px; }
+      .top5 li {
+        padding-right: 20px; }
+      .top5 .col-xs-2 {
+        width: 20%;
+        font-size: 90%; }
+        .top5 .col-xs-2 .thumbnailpic {
+          padding-left: 1em; } } }
+  .top5 h3 {
+    padding-left: 0px; }
+  .top5 ul {
+    list-style: none;
+    padding-left: 0; }
+    .top5 ul li {
+      padding-left: 0px;
+      padding-bottom: 5px;
+      padding-top: 5px; }
+      .top5 ul li img {
+        display: inline-block;
+        float: left; }
+      .top5 ul li .infobox {
+        margin-top: 17px;
+        display: inline-block;
+        width: 50%; }
+@media(min-width: 768px) {
+  .top5 ul li .infobox {
+    padding-left: 1em;
+    float: right; } }
+@media(min-width: 0px) {
+  @media(max-width: 767px) {
+    .top5 ul li .infobox {
+      float: left; } } }
+        .top5 ul li .infobox p {
+          display: inline-block;
+          font-size: 1em; }
+@media(min-width: 0px) {
+  @media(max-width: 520px) {
+    .top5 ul li .infobox p {
+      font-size: 0.9em; } } }
+        .top5 ul li .infobox h4 {
+          margin-top: 5px;
+          margin-bottom: 5px; }
+
+@media(max-width: 767px) {
+  .specialtext {
+    margin-top: 10px !important; } }
+@media(min-width: 768px) {
+  .group1 h2 {
+    margin-bottom: 30px; } }
+@media(max-width: 767px) {
+  .group1 h2 {
+    margin-top: 40px; } }
+@media(min-width: 768px) {
+  .season {
+    padding-top: 15px; } }
+@media(min-width: 0px) {
+  @media(max-width: 767px) {
+    .season h3 {
+      margin-top: 15px; } } }
+.season ul {
+  list-style: none;
+  padding-left: 0;
+  line-height: 1.1; }
+
+.navbar {
+  border: 0 0 0 0;
+  border-color: #323;
+  background-color: #323;
+  padding-top: 0px;
+  margin-bottom: 0px; }
+  .navbar a, .navbar p {
+    color: white; }
+
+.brandimg {
+  display: inline-block !important; }
+
+.moo {
+  padding-top: 0px; }
+
+.moo2 {
+  padding-left: 0px;
+  padding-right: 0px; }
+
+.navbar-brand {
+  position: absolute;
+  width: 100%;
+  left: 0;
+  top: 0;
+  text-align: center;
+  margin: auto; }
+
+.bottombar {
+  border-top: 1px solid black;
+  padding-top: 15px;
+  padding-left: 15px;
+  clear: both; }
+  .bottombar a {
+    padding-right: 15px; }
+
+.zmoo {
+  z-index: 9999;
+  position: relative; }
+
+.navbar-toggle {
+  z-index: 3; }
+
+.smalllogo {
+  display: none; }
+@media(min-width: 768px) {
+  @media(max-width: 991px) {
+    .smalllogo {
+      display: inline-block; } } }
+.biglogo {
+  display: inline-block; }
+@media(min-width: 768px) {
+  @media(max-width: 991px) {
+    .biglogo {
+      display: none; } } }
+#myCarousel p, h3 {
+  color: black; }
+
+@media(min-width: 0px) {
+  @media(max-width: 767px) {
+    .hidesm {
+      display: none !important; } } }
+.genrespot {
+  display: inline-block;
+  text-align: center; }
+  .genrespot img {
+    margin-left: auto;
+    margin-right: auto; }
+
+.carousel-indicators li {
+  border: 1px solid black; }
+.carousel-indicators .active {
+  background-color: black; }
+
+.tinyimg {
+  width: 50% !important;
+  -webkit-clip-path: inset(20% 0% 10% 0%);
+  clip-path: inset(10% 10% 10% 10%); }
+@media(min-width: 768px) {
+  .tinyimg {
+    width: 50%;
+    display: inline-block; } }
+@media(min-width: 0px) {
+  @media(max-width: 767px) {
+    .navbar {
+      top: 0;
+      border-width: 0px 0px 1px 0px;
+      position: fixed;
+      right: 0;
+      left: 0;
+      z-index: 1030; }
+
+    .showcol {
+      padding: 0px 10px 0px 10px; }
+      .showcol img {
+        width: 100%; }
+
+    .container {
+      padding: 15px 0px 0px 0px; }
+
+    .biglogo {
+      padding-top: 5px; }
+
+    .navbar {
+      padding-top: 5px;
+      padding-bottom: 5px; }
+
+    .mainanime, .showspot, .sidestuff {
+      padding: 0px 5px 0px 5px; } } }
+@media(min-width: 0px) {
+  @media(max-width: 767px) {
+    .showcol {
+      padding-bottom: 40px; } } }
