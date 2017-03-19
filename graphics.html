@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Cool pictures!</title>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+	<!-- Add jQuery library -->
+	<script type="text/javascript" src="assets/jquery-1.10.1.min.js"></script>
+	<!-- Add mousewheel plugin (this is optional) -->
+	<script type="text/javascript" src="assets/jquery.mousewheel-3.0.6.pack.js"></script>
+	<!-- Add fancyBox main JS and CSS files -->
+	<script type="text/javascript" src="assets/jquery.fancybox.js%3Fv=2.1.5"></script>
+	<link rel="stylesheet" type="text/css" href="assets/jquery.fancybox.css%3Fv=2.1.5.css" media="screen" />
+	<link rel="stylesheet" type="text/css" href="assets/display.css"/>
+	<!-- Add Thumbnail helper (this is optional) -->
+	<link rel="stylesheet" type="text/css" href="assets/jquery.fancybox-thumbs.css%3Fv=1.0.7.css" />
+	<script type="text/javascript" src="assets/jquery.fancybox-thumbs.js%3Fv=1.0.7"></script>
+
+	<script type="text/javascript">
+		$(document).ready(function() {
+			$('.fancybox').fancybox();
+			$(".fancybox-effects-c").fancybox({
+				wrapCSS    : 'fancybox-custom',
+				closeClick : true,
+
+				openEffect : 'none',
+
+				helpers : {
+					title : {
+						type : 'inside'
+					},
+					overlay : {
+						css : {
+							'background' : 'rgba(238,238,238,0.85)'
+						}
+					}
+				}
+			});
+			$(".fancybox-effects-d").fancybox({
+				padding: 0,
+
+				openEffect : 'elastic',
+				openSpeed  : 150,
+
+				closeEffect : 'elastic',
+				closeSpeed  : 150,
+
+				closeClick : true,
+
+				helpers : {
+					overlay : null
+				}
+			});
+			$('.fancybox-thumbs').fancybox({
+				prevEffect : 'none',
+				nextEffect : 'none',
+
+				closeBtn  : false,
+				arrows    : false,
+				nextClick : true,
+
+				helpers : {
+					thumbs : {
+						width  : 50,
+						height : 50
+					}
+				}
+			});
+		});
+	</script>
+	<style type="text/css">
+		.fancybox-custom .fancybox-skin {
+			box-shadow: 0 0 50px #222;
+		}
+
+		body {
+			max-width: 700px;
+			margin: 0 auto;
+		}
+	</style>
+</head>
+<body>
+
+	<h3>Twitch layouts</h3>
+	<p>
+		<a class="fancybox-thumbs" data-fancybox-group="thumb" href="assets/layouts/4_b.png"><img src="assets/layouts&#32;small/4_b.png" alt="" /></a>
+		<a class="fancybox-thumbs" data-fancybox-group="thumb" href="assets/layouts/3_b.png"><img src="assets/layouts&#32;small/3_b.png" alt="" /></a>
+		<a class="fancybox-thumbs" data-fancybox-group="thumb" href="assets/layouts/2_b.png"><img src="assets/layouts&#32;small/2_b.png" alt="" /></a>
+		<a class="fancybox-thumbs" data-fancybox-group="thumb" href="assets/layouts/1_b.png"><img src="assets/layouts&#32;small/1_b.png" alt="" /></a>
+		<a class="fancybox-thumbs" data-fancybox-group="thumb" href="assets/layouts/5_b.png"><img src="assets/layouts&#32;small/5_b.png" alt="" /></a>
+		<a class="fancybox-thumbs" data-fancybox-group="thumb" href="assets/layouts/6_b.png"><img src="assets/layouts&#32;small/6_b.png" alt="" /></a>
+		<a class="fancybox-thumbs" data-fancybox-group="thumb" href="assets/layouts/animal-crossing.png"><img src="assets/layouts&#32;small/animal-crossing.png" alt="" /></a>
+		<a class="fancybox-thumbs" data-fancybox-group="thumb" href="assets/layouts/chaoitcace.png"><img src="assets/layouts&#32;small/chaoitcace.png" alt="" /></a>
+		<a class="fancybox-thumbs" data-fancybox-group="thumb" href="assets/layouts/gameboy.png"><img src="assets/layouts&#32;small/gameboy.png" alt="" /></a>
+		<a class="fancybox-thumbs" data-fancybox-group="thumb" href="assets/layouts/hipster-layout.png"><img src="assets/layouts&#32;small/hipster-layout.png" alt="" /></a>
+		<a class="fancybox-thumbs" data-fancybox-group="thumb" href="assets/layouts/layout.png"><img src="assets/layouts&#32;small/layout.png" alt="" /></a>
+		<a class="fancybox-thumbs" data-fancybox-group="thumb" href="assets/layouts/overwrite.png"><img src="assets/layouts&#32;small/overwrite.png" alt="" /></a>
+		<a class="fancybox-thumbs" data-fancybox-group="thumb" href="assets/layouts/smash-hipster-layout.png"><img src="assets/layouts&#32;small/smash-hipster-layout.png" alt="" /></a>
+		<a class="fancybox-thumbs" data-fancybox-group="thumb" href="assets/layouts/ss.png"><img src="assets/layouts&#32;small/ss.png" alt="" /></a>
+		<a class="fancybox-thumbs" data-fancybox-group="thumb" href="assets/layouts/stafy.png"><img src="assets/layouts&#32;small/stafy.png" alt="" /></a>
+		<a class="fancybox-thumbs" data-fancybox-group="thumb" href="assets/layouts/tp-layout-part-3.png"><img src="assets/layouts&#32;small/tp-layout-part-3.png" alt="" /></a>
+		<a class="fancybox-thumbs" data-fancybox-group="thumb" href="assets/layouts/tp-layout-part-brb.png"><img src="assets/layouts&#32;small/tp-layout-part-brb.png" alt="" /></a>
+		<a class="fancybox-thumbs" data-fancybox-group="thumb" href="assets/layouts/westballz.png"><img src="assets/layouts&#32;small/westballz.png" alt="" /></a>
+		<a class="fancybox-thumbs" data-fancybox-group="thumb" href="assets/layouts/wwsd.png"><img src="assets/layouts&#32;small/wwsd.png" alt="" /></a>
+	</p>
+
+	<h3>Cute pics or graphics</h3>
+	<p>
+		<a class="fancybox-thumbs" data-fancybox-group="thumb"href="assets/cute&#32;pics&#32;or&#32;graphics/bulborb.png"><img src="assets/cute&#32;small/bulborb.png" alt=""/></a>
+		<a class="fancybox-thumbs" data-fancybox-group="thumb"href="assets/cute&#32;pics&#32;or&#32;graphics/cactus.png"><img src="assets/cute&#32;small/cactus.png" alt=""/></a>
+		<a class="fancybox-thumbs" data-fancybox-group="thumb"href="assets/cute&#32;pics&#32;or&#32;graphics/cutie.png"><img src="assets/cute&#32;small/cutie.png" alt=""/></a>
+		<a class="fancybox-thumbs" data-fancybox-group="thumb"href="assets/cute&#32;pics&#32;or&#32;graphics/fei-shit.png"><img src="assets/cute&#32;small/fei-shit.png" alt=""/></a>
+		<a class="fancybox-thumbs" data-fancybox-group="thumb"href="assets/cute&#32;pics&#32;or&#32;graphics/meow.png"><img src="assets/cute&#32;small/meow.png" alt=""/></a>
+		<a class="fancybox-thumbs" data-fancybox-group="thumb"href="assets/cute&#32;pics&#32;or&#32;graphics/Untitled-5.png"><img src="assets/cute&#32;small/Untitled-5.png" alt=""/></a>
+		<a class="fancybox-thumbs" data-fancybox-group="thumb"href="assets/cute&#32;pics&#32;or&#32;graphics/Untitled-8.png"><img src="assets/cute&#32;small/Untitled-8.png" alt=""/></a>
+	</p>
+</body>
+</html>

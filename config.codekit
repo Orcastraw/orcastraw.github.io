@@ -2,6 +2,15 @@
 "CodeKitInfo": "This is a CodeKit 2.x project configuration file. It is designed to sync project settings across multiple machines. MODIFYING THE CONTENTS OF THIS FILE IS A POOR LIFE DECISION. If you do so, you will likely cause CodeKit to crash. This file is not useful unless accompanied by the project that created it in CodeKit 2. This file is not backwards-compatible with CodeKit 1.x. For more information, see: http:\/\/incident57.com\/codekit",
 "creatorBuild": "19115",
 "files": {
+	"\/3ds.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/3ds.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/anime 3\/91.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -1944,6 +1953,995 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/aspect.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/aspect.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/assets\/3ds\/3ds3.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 266309,
+		"inputAbbreviatedPath": "\/assets\/3ds\/3ds3.png",
+		"outputAbbreviatedPath": "\/assets\/3ds\/3ds3.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/3ds\/compare.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 187899,
+		"inputAbbreviatedPath": "\/assets\/3ds\/compare.png",
+		"outputAbbreviatedPath": "\/assets\/3ds\/compare.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/3ds\/t3ds.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 2051,
+		"inputAbbreviatedPath": "\/assets\/3ds\/t3ds.png",
+		"outputAbbreviatedPath": "\/assets\/3ds\/t3ds.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/bg.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1176,
+		"inputAbbreviatedPath": "\/assets\/bg.png",
+		"outputAbbreviatedPath": "\/assets\/bg.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/cute pics or graphics\/bulborb.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 66704,
+		"inputAbbreviatedPath": "\/assets\/cute pics or graphics\/bulborb.png",
+		"outputAbbreviatedPath": "\/assets\/cute pics or graphics\/bulborb.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/cute pics or graphics\/cactus.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 106599,
+		"inputAbbreviatedPath": "\/assets\/cute pics or graphics\/cactus.png",
+		"outputAbbreviatedPath": "\/assets\/cute pics or graphics\/cactus.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/cute pics or graphics\/cutie.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 59411,
+		"inputAbbreviatedPath": "\/assets\/cute pics or graphics\/cutie.png",
+		"outputAbbreviatedPath": "\/assets\/cute pics or graphics\/cutie.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/cute pics or graphics\/fei-shit.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 42210,
+		"inputAbbreviatedPath": "\/assets\/cute pics or graphics\/fei-shit.png",
+		"outputAbbreviatedPath": "\/assets\/cute pics or graphics\/fei-shit.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/cute pics or graphics\/meow.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 38066,
+		"inputAbbreviatedPath": "\/assets\/cute pics or graphics\/meow.png",
+		"outputAbbreviatedPath": "\/assets\/cute pics or graphics\/meow.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/cute pics or graphics\/Untitled-5.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 21261,
+		"inputAbbreviatedPath": "\/assets\/cute pics or graphics\/Untitled-5.png",
+		"outputAbbreviatedPath": "\/assets\/cute pics or graphics\/Untitled-5.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/cute pics or graphics\/Untitled-8.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 98416,
+		"inputAbbreviatedPath": "\/assets\/cute pics or graphics\/Untitled-8.png",
+		"outputAbbreviatedPath": "\/assets\/cute pics or graphics\/Untitled-8.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/cute small\/bulborb.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 14998,
+		"inputAbbreviatedPath": "\/assets\/cute small\/bulborb.png",
+		"outputAbbreviatedPath": "\/assets\/cute small\/bulborb.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/cute small\/cactus.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 21856,
+		"inputAbbreviatedPath": "\/assets\/cute small\/cactus.png",
+		"outputAbbreviatedPath": "\/assets\/cute small\/cactus.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/cute small\/cutie.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 13639,
+		"inputAbbreviatedPath": "\/assets\/cute small\/cutie.png",
+		"outputAbbreviatedPath": "\/assets\/cute small\/cutie.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/cute small\/fei-shit.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 8685,
+		"inputAbbreviatedPath": "\/assets\/cute small\/fei-shit.png",
+		"outputAbbreviatedPath": "\/assets\/cute small\/fei-shit.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/cute small\/meow.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 11562,
+		"inputAbbreviatedPath": "\/assets\/cute small\/meow.png",
+		"outputAbbreviatedPath": "\/assets\/cute small\/meow.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/cute small\/Untitled-5.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 15081,
+		"inputAbbreviatedPath": "\/assets\/cute small\/Untitled-5.png",
+		"outputAbbreviatedPath": "\/assets\/cute small\/Untitled-5.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/cute small\/Untitled-8.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 25454,
+		"inputAbbreviatedPath": "\/assets\/cute small\/Untitled-8.png",
+		"outputAbbreviatedPath": "\/assets\/cute small\/Untitled-8.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/display.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/assets\/display.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/assets\/doc.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 3482,
+		"inputAbbreviatedPath": "\/assets\/doc.png",
+		"outputAbbreviatedPath": "\/assets\/doc.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/ds\/dsIMG.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 254187,
+		"inputAbbreviatedPath": "\/assets\/ds\/dsIMG.png",
+		"outputAbbreviatedPath": "\/assets\/ds\/dsIMG.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/ds\/tds.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1510,
+		"inputAbbreviatedPath": "\/assets\/ds\/tds.png",
+		"outputAbbreviatedPath": "\/assets\/ds\/tds.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/fancybox_overlay.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1003,
+		"inputAbbreviatedPath": "\/assets\/fancybox_overlay.png",
+		"outputAbbreviatedPath": "\/assets\/fancybox_overlay.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/fancybox_sprite.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1362,
+		"inputAbbreviatedPath": "\/assets\/fancybox_sprite.png",
+		"outputAbbreviatedPath": "\/assets\/fancybox_sprite.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/fancybox_sprite@2x.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 6553,
+		"inputAbbreviatedPath": "\/assets\/fancybox_sprite@2x.png",
+		"outputAbbreviatedPath": "\/assets\/fancybox_sprite@2x.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/gba\/compare.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 113616,
+		"inputAbbreviatedPath": "\/assets\/gba\/compare.png",
+		"outputAbbreviatedPath": "\/assets\/gba\/compare.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/gba\/tgba.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1657,
+		"inputAbbreviatedPath": "\/assets\/gba\/tgba.png",
+		"outputAbbreviatedPath": "\/assets\/gba\/tgba.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/gbc\/tgbc.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1477,
+		"inputAbbreviatedPath": "\/assets\/gbc\/tgbc.png",
+		"outputAbbreviatedPath": "\/assets\/gbc\/tgbc.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/genesis\/genesis.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 2613,
+		"inputAbbreviatedPath": "\/assets\/genesis\/genesis.png",
+		"outputAbbreviatedPath": "\/assets\/genesis\/genesis.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/genesis\/genesis32.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 96509,
+		"inputAbbreviatedPath": "\/assets\/genesis\/genesis32.png",
+		"outputAbbreviatedPath": "\/assets\/genesis\/genesis32.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/genesis\/genesis32big.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 98816,
+		"inputAbbreviatedPath": "\/assets\/genesis\/genesis32big.png",
+		"outputAbbreviatedPath": "\/assets\/genesis\/genesis32big.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/genesis\/genesisbig.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 52821,
+		"inputAbbreviatedPath": "\/assets\/genesis\/genesisbig.png",
+		"outputAbbreviatedPath": "\/assets\/genesis\/genesisbig.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/grid2.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/assets\/grid2.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/assets\/grid3.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/assets\/grid3.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/assets\/index.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/assets\/index.js",
+		"outputAbbreviatedPath": "\/assets\/min\/index-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/assets\/jquery-1.10.1.min.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/assets\/jquery-1.10.1.min.js",
+		"outputAbbreviatedPath": "\/assets\/min\/jquery-1.10.1.min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/assets\/jquery.fancybox-thumbs.css?v=1.0.7.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/assets\/jquery.fancybox-thumbs.css?v=1.0.7.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/assets\/jquery.fancybox.css?v=2.1.5.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/assets\/jquery.fancybox.css?v=2.1.5.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/assets\/jquery.mousewheel-3.0.6.pack.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/assets\/jquery.mousewheel-3.0.6.pack.js",
+		"outputAbbreviatedPath": "\/assets\/min\/jquery.mousewheel-3.0.6.pack-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/assets\/layouts small\/1_b.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 2869,
+		"inputAbbreviatedPath": "\/assets\/layouts small\/1_b.png",
+		"outputAbbreviatedPath": "\/assets\/layouts small\/1_b.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/layouts small\/2_b.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 4755,
+		"inputAbbreviatedPath": "\/assets\/layouts small\/2_b.png",
+		"outputAbbreviatedPath": "\/assets\/layouts small\/2_b.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/layouts small\/3_b.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 7003,
+		"inputAbbreviatedPath": "\/assets\/layouts small\/3_b.png",
+		"outputAbbreviatedPath": "\/assets\/layouts small\/3_b.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/layouts small\/4_b.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 8574,
+		"inputAbbreviatedPath": "\/assets\/layouts small\/4_b.png",
+		"outputAbbreviatedPath": "\/assets\/layouts small\/4_b.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/layouts small\/5_b.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 5962,
+		"inputAbbreviatedPath": "\/assets\/layouts small\/5_b.png",
+		"outputAbbreviatedPath": "\/assets\/layouts small\/5_b.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/layouts small\/6_b.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 3547,
+		"inputAbbreviatedPath": "\/assets\/layouts small\/6_b.png",
+		"outputAbbreviatedPath": "\/assets\/layouts small\/6_b.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/layouts small\/animal-crossing.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 10816,
+		"inputAbbreviatedPath": "\/assets\/layouts small\/animal-crossing.png",
+		"outputAbbreviatedPath": "\/assets\/layouts small\/animal-crossing.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/layouts small\/chaoitcace.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 2945,
+		"inputAbbreviatedPath": "\/assets\/layouts small\/chaoitcace.png",
+		"outputAbbreviatedPath": "\/assets\/layouts small\/chaoitcace.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/layouts small\/gameboy.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 6693,
+		"inputAbbreviatedPath": "\/assets\/layouts small\/gameboy.png",
+		"outputAbbreviatedPath": "\/assets\/layouts small\/gameboy.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/layouts small\/hipster-layout.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 10603,
+		"inputAbbreviatedPath": "\/assets\/layouts small\/hipster-layout.png",
+		"outputAbbreviatedPath": "\/assets\/layouts small\/hipster-layout.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/layouts small\/layout.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 7327,
+		"inputAbbreviatedPath": "\/assets\/layouts small\/layout.png",
+		"outputAbbreviatedPath": "\/assets\/layouts small\/layout.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/layouts small\/overwrite.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 5495,
+		"inputAbbreviatedPath": "\/assets\/layouts small\/overwrite.png",
+		"outputAbbreviatedPath": "\/assets\/layouts small\/overwrite.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/layouts small\/smash-hipster-layout.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 5919,
+		"inputAbbreviatedPath": "\/assets\/layouts small\/smash-hipster-layout.png",
+		"outputAbbreviatedPath": "\/assets\/layouts small\/smash-hipster-layout.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/layouts small\/ss.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 6180,
+		"inputAbbreviatedPath": "\/assets\/layouts small\/ss.png",
+		"outputAbbreviatedPath": "\/assets\/layouts small\/ss.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/layouts small\/stafy.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 4763,
+		"inputAbbreviatedPath": "\/assets\/layouts small\/stafy.png",
+		"outputAbbreviatedPath": "\/assets\/layouts small\/stafy.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/layouts small\/tp-layout-part-3.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 3841,
+		"inputAbbreviatedPath": "\/assets\/layouts small\/tp-layout-part-3.png",
+		"outputAbbreviatedPath": "\/assets\/layouts small\/tp-layout-part-3.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/layouts small\/tp-layout-part-brb.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 4825,
+		"inputAbbreviatedPath": "\/assets\/layouts small\/tp-layout-part-brb.png",
+		"outputAbbreviatedPath": "\/assets\/layouts small\/tp-layout-part-brb.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/layouts small\/westballz.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 6198,
+		"inputAbbreviatedPath": "\/assets\/layouts small\/westballz.png",
+		"outputAbbreviatedPath": "\/assets\/layouts small\/westballz.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/layouts small\/wwsd.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 6188,
+		"inputAbbreviatedPath": "\/assets\/layouts small\/wwsd.png",
+		"outputAbbreviatedPath": "\/assets\/layouts small\/wwsd.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/layouts\/1_b.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 22183,
+		"inputAbbreviatedPath": "\/assets\/layouts\/1_b.png",
+		"outputAbbreviatedPath": "\/assets\/layouts\/1_b.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/layouts\/2_b.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 367488,
+		"inputAbbreviatedPath": "\/assets\/layouts\/2_b.png",
+		"outputAbbreviatedPath": "\/assets\/layouts\/2_b.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/layouts\/3_b.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 318877,
+		"inputAbbreviatedPath": "\/assets\/layouts\/3_b.png",
+		"outputAbbreviatedPath": "\/assets\/layouts\/3_b.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/layouts\/4_b.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 536800,
+		"inputAbbreviatedPath": "\/assets\/layouts\/4_b.png",
+		"outputAbbreviatedPath": "\/assets\/layouts\/4_b.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/layouts\/5_b.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 193362,
+		"inputAbbreviatedPath": "\/assets\/layouts\/5_b.png",
+		"outputAbbreviatedPath": "\/assets\/layouts\/5_b.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/layouts\/6_b.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 87713,
+		"inputAbbreviatedPath": "\/assets\/layouts\/6_b.png",
+		"outputAbbreviatedPath": "\/assets\/layouts\/6_b.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/layouts\/animal-crossing.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 321024,
+		"inputAbbreviatedPath": "\/assets\/layouts\/animal-crossing.png",
+		"outputAbbreviatedPath": "\/assets\/layouts\/animal-crossing.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/layouts\/chaoitcace.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 284434,
+		"inputAbbreviatedPath": "\/assets\/layouts\/chaoitcace.png",
+		"outputAbbreviatedPath": "\/assets\/layouts\/chaoitcace.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/layouts\/gameboy.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 122010,
+		"inputAbbreviatedPath": "\/assets\/layouts\/gameboy.png",
+		"outputAbbreviatedPath": "\/assets\/layouts\/gameboy.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/layouts\/hipster-layout.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 214897,
+		"inputAbbreviatedPath": "\/assets\/layouts\/hipster-layout.png",
+		"outputAbbreviatedPath": "\/assets\/layouts\/hipster-layout.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/layouts\/layout.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 556031,
+		"inputAbbreviatedPath": "\/assets\/layouts\/layout.png",
+		"outputAbbreviatedPath": "\/assets\/layouts\/layout.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/layouts\/overwrite.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 55572,
+		"inputAbbreviatedPath": "\/assets\/layouts\/overwrite.png",
+		"outputAbbreviatedPath": "\/assets\/layouts\/overwrite.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/layouts\/smash-hipster-layout.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 128211,
+		"inputAbbreviatedPath": "\/assets\/layouts\/smash-hipster-layout.png",
+		"outputAbbreviatedPath": "\/assets\/layouts\/smash-hipster-layout.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/layouts\/ss.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 154848,
+		"inputAbbreviatedPath": "\/assets\/layouts\/ss.png",
+		"outputAbbreviatedPath": "\/assets\/layouts\/ss.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/layouts\/stafy.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 93813,
+		"inputAbbreviatedPath": "\/assets\/layouts\/stafy.png",
+		"outputAbbreviatedPath": "\/assets\/layouts\/stafy.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/layouts\/tp-layout-part-3.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 67609,
+		"inputAbbreviatedPath": "\/assets\/layouts\/tp-layout-part-3.png",
+		"outputAbbreviatedPath": "\/assets\/layouts\/tp-layout-part-3.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/layouts\/tp-layout-part-brb.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 149894,
+		"inputAbbreviatedPath": "\/assets\/layouts\/tp-layout-part-brb.png",
+		"outputAbbreviatedPath": "\/assets\/layouts\/tp-layout-part-brb.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/layouts\/westballz.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 96283,
+		"inputAbbreviatedPath": "\/assets\/layouts\/westballz.png",
+		"outputAbbreviatedPath": "\/assets\/layouts\/westballz.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/layouts\/wwsd.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 81092,
+		"inputAbbreviatedPath": "\/assets\/layouts\/wwsd.png",
+		"outputAbbreviatedPath": "\/assets\/layouts\/wwsd.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/ps.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 110183,
+		"inputAbbreviatedPath": "\/assets\/ps.png",
+		"outputAbbreviatedPath": "\/assets\/ps.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/psp\/pspIMG.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 259300,
+		"inputAbbreviatedPath": "\/assets\/psp\/pspIMG.png",
+		"outputAbbreviatedPath": "\/assets\/psp\/pspIMG.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/psp\/tpsp.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1553,
+		"inputAbbreviatedPath": "\/assets\/psp\/tpsp.png",
+		"outputAbbreviatedPath": "\/assets\/psp\/tpsp.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/snes\/compare\/compare.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 312956,
+		"inputAbbreviatedPath": "\/assets\/snes\/compare\/compare.png",
+		"outputAbbreviatedPath": "\/assets\/snes\/compare\/compare.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/snes\/compare\/ct.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 35468,
+		"inputAbbreviatedPath": "\/assets\/snes\/compare\/ct.png",
+		"outputAbbreviatedPath": "\/assets\/snes\/compare\/ct.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/snes\/compare\/mario-compare.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 151420,
+		"inputAbbreviatedPath": "\/assets\/snes\/compare\/mario-compare.png",
+		"outputAbbreviatedPath": "\/assets\/snes\/compare\/mario-compare.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/snes\/compare\/morph.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 60482,
+		"inputAbbreviatedPath": "\/assets\/snes\/compare\/morph.png",
+		"outputAbbreviatedPath": "\/assets\/snes\/compare\/morph.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/snes\/compare\/sm.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 356405,
+		"inputAbbreviatedPath": "\/assets\/snes\/compare\/sm.png",
+		"outputAbbreviatedPath": "\/assets\/snes\/compare\/sm.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/snes\/compare\/smw.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 323302,
+		"inputAbbreviatedPath": "\/assets\/snes\/compare\/smw.png",
+		"outputAbbreviatedPath": "\/assets\/snes\/compare\/smw.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/snes\/compare\/yi.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 184582,
+		"inputAbbreviatedPath": "\/assets\/snes\/compare\/yi.png",
+		"outputAbbreviatedPath": "\/assets\/snes\/compare\/yi.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/snes\/tsnes.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1665,
+		"inputAbbreviatedPath": "\/assets\/snes\/tsnes.png",
+		"outputAbbreviatedPath": "\/assets\/snes\/tsnes.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/wiiu\/twiiu.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1793,
+		"inputAbbreviatedPath": "\/assets\/wiiu\/twiiu.png",
+		"outputAbbreviatedPath": "\/assets\/wiiu\/twiiu.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/wiiu\/wiiuIMG.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 260628,
+		"inputAbbreviatedPath": "\/assets\/wiiu\/wiiuIMG.png",
+		"outputAbbreviatedPath": "\/assets\/wiiu\/wiiuIMG.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/css\/bluei.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -2019,6 +3017,69 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/ds.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/ds.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/gba.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/gba.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/gbc.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/gbc.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/gc.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/gc.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/genesis.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/genesis.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/graphics.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/graphics.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/index 2.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/index 2.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/index.html": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -2043,6 +3104,15 @@
 		"shouldRunAutoprefixer": 0,
 		"shouldRunBless": 0,
 		"useLibsass": false
+		},
+	"\/n64.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/n64.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
 		},
 	"\/national\/css\/copy.jpg": {
 		"fileType": 16384,
@@ -2144,6 +3214,15 @@
 		"shouldRunBless": 0,
 		"useLibsass": false
 		},
+	"\/pc.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/pc.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/photo-1465417001205-3e465bfad702.jpeg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -2154,6 +3233,24 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
+		},
+	"\/ps4.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/ps4.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/psp.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/psp.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
 		},
 	"\/saturnproject\/bars.png": {
 		"fileType": 32768,
@@ -2668,6 +3765,15 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/snes.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/snes.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/switch\/css\/style.css": {
 		"fileType": 16,
 		"ignore": 0,
@@ -3064,6 +4170,33 @@
 		"shouldRunAutoprefixer": 0,
 		"shouldRunBless": 0,
 		"useLibsass": false
+		},
+	"\/wii.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wii.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/wiiu.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wiiu.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/xbox.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/xbox.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
 		}
 	},
 "hooks": [

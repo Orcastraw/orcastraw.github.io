@@ -1,0 +1,64 @@
+*{
+  background-color: #804686;
+  color:white;
+   text-align:center
+}
+body {
+    background-color:#333333;
+    background-image:url("bg.png")
+
+}
+
+.navbar-default{
+  background-color: #333333;
+  background-image:url("bg.png")
+}
+.navbar{
+  border:0;
+}
+
+.img-responsive{
+  display:inline-block;
+}
+html, body
+{
+  height: auto;
+}
+
+/* Sticky footer styles
+-------------------------------------------------- */
+/*html {
+  position: relative;
+  min-height: 100%;
+}
+body {
+  /* Margin bottom by footer height 
+  margin-bottom: 40px;
+}
+.footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  /* Set the fixed height of the footer here 
+  height: 40px;
+  background-image:url("bg.png")
+}
+/*
+
+/* Custom page CSS
+-------------------------------------------------- */
+/* Not required for template or sticky footer method. */
+
+body > .container {
+  padding: 20px 15px 0;
+}
+
+
+.footer > .container {
+  padding-right: 15px;
+  padding-left: 15px;
+}
+
+code {
+  font-size: 80%;
+}

@@ -1,0 +1,9 @@
+*{
+  color: white;
+  text-align:center;
+  background-color: black;
+  background-image:url("bg.png")
+}
+h3{
+font-family: 'Droid Sans', arial, serif;
+}
