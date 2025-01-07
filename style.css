@@ -5,15 +5,15 @@
     --site-bg: url("images/flowertile.png");
     --accent-color: #f55cc0;
     --select-color: #ffc1e9;
-    --link-color: #5083C1;
+    --link-color: ##50C17C;
     --bg-color: #CEFFE8;
     --bg-color2: white;
     --text-color: #191919;
-    --border-color: #215697;
+    --border-color: #219765;
     /*--gradient-bg: linear-gradient(0deg, #CADCFF00 0%, #fff 100%);*/
     --post-header-color: white;
     --post-shadow-color: #21569760;
-    --outline-color: #6EAAD6;
+    --outline-color: #6ED6AF;
     --outline-color2: #CEEAFF;
 }
 /* you can get hex codes from sites like this:
@@ -338,4 +338,19 @@ footer {
     #sidebar li {
         margin: .3em 1em;
     }
+}
+
+/* kale zone */
+
+button{
+    font-weight: bold;
+  background-color: var(--bg-color);
+  border: 2px double var(--outline-color);
+  padding: .3em 1em;
+  text-decoration: none;
+  border-radius: 5px;
+}
+
+.annoying{
+    color:#4AA86E !important;
 }
